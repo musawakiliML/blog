@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Blog"
-    url: https://musawakiliml.github.io/blog
+    url: /blog/
   - title: "About"
-    url: https://musawakiliml.github.io/about/
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
