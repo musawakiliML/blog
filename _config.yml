@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Musaml.ai"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title                    : "Musa ML"
+title_separator          : "|"
+subtitle                 : "Machine Learning Enthusiast"
 name                     : "Musa ML"
 description              : "Machine Learning Enthusiast"
 url                      : "https://musawakiliml.github.io/"
